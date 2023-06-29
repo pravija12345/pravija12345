@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pravija Danda</h1>
 <h3 align="center"> 📚 I am a Master's student in Computer Science at Texas A&M University</h3>
 
-- 👩‍💻 I am a tech enthusiast with a strong passion for technology, continuous learning, and problem-solving. I strive to stay up-to-date with the latest industry advancements and trends.
-- 🎓 I completed my Bachelor's Degree in Information Technology at National Institute of Technology, Raipur. 
-- 👩‍💻 I worked as a Data Analyst at Deloitte Consulting, India, where I designed and implemented ETL strategies, improved data quality, and integrated multiple data sources for Data Warehousing solutions.
-- 💻 I am currently working on creating Pybind11 bindings for the libROM library.
-- 👯I am eager to collaborate on **interesting projects that can help me enhance my skills.** 
-- 📫 You can reach out to me at **pravija123@tamu.edu.**
+👩‍💻 I am a tech enthusiast with a strong passion for technology, continuous learning, and problem-solving. I strive to stay up-to-date with the latest industry advancements and trends.
+🎓 I completed my Bachelor's Degree in Information Technology at National Institute of Technology, Raipur. 
+👩‍💻 I worked as a Data Analyst at Deloitte Consulting, India, where I designed and implemented ETL strategies, improved data quality, and integrated multiple data sources for Data Warehousing solutions.
+💻 I am currently working on creating Pybind11 bindings for the libROM library.
+👯I am eager to collaborate on **interesting projects that can help me enhance my skills.** 
+📫 You can reach out to me at **pravija123@tamu.edu.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
